@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IECacheTool", "IECacheTool\IECacheTool.csproj", "{8B96B5CA-26AA-49E8-945E-374EB9428319}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{2867C4B5-DBA7-4017-BBB9-38FE75CE8D71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,9 @@ Global
 		{8B96B5CA-26AA-49E8-945E-374EB9428319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B96B5CA-26AA-49E8-945E-374EB9428319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B96B5CA-26AA-49E8-945E-374EB9428319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2867C4B5-DBA7-4017-BBB9-38FE75CE8D71}.Debug|Any CPU.ActiveCfg = Debug
+		{2867C4B5-DBA7-4017-BBB9-38FE75CE8D71}.Release|Any CPU.ActiveCfg = Release
+		{2867C4B5-DBA7-4017-BBB9-38FE75CE8D71}.Release|Any CPU.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
